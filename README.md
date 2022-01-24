@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgosavi10
+- 👋 Hey There, I’m Soniya!
 - 👀 I’m interested in Data Science/Machine Learning
 - 📫 Have questions, email me soniya.gosavi@westjet.com
 
